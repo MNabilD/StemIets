@@ -11,8 +11,7 @@
     tools:context="com.stem.iets.MainActivity">
     <TextView
         android:id="@+id/thesis"
-        style="@style/paragraph"
-        android:text="@string/stelling1"/>
+        style="@style/paragraph" />
 
         <Button
             android:layout_width="90dp"

@@ -22,8 +22,9 @@ public class FirstQuestion extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_question);
 
-        //Find's the thesis TextView
+        //Find's the thesis TextView and set's the first thesis
         thesis = (TextView) findViewById(R.id.thesis);
+        thesis.setText(stringList[stringListCounter]);
     }
 
     // Get's called if one of the agree buttons is pressed
