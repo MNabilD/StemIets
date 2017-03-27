@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">#StemIets2017</string>
+    <string name="welcome">Welkom!</string>
+    <string name="welcome_text">
+        Welkom bij deze nieuwe stemhulp app.
+        Deze app zal je een aantal vragen stellen die je kunnen helpen bij het maken van je keuze bij de aankomende tweedekamer verkiezingen.
+    </string>
+    <string name="instructions">
+        De app is heel simpel in gebruik.
+        Je krijgt een aantal stellingen waarop je kan aangeven in hoeverre je het eens bent met deze stelling.
+        Als alle vragen beantwoord zijn krijg je aan het einde de politieke partijen die het meest overeenkomen met de door jouw beantwoordde stellingen.
+    </string>
+    <string name="start_button">Start</string>
+
+    <string name="stelling1">
+        De overheid moet een gezonde levensstijl stimuleren door de belasting op ongezonde voeding te verhogen.
+    </string>
+
+    <string name="stelling2">
+        Nederland mag internationale handelsverdragen alleen onderteken als duidelijk is dat bedrijven milieuwetten niet kunnen omzeilen
+    </string>
+
+    <string name="stelling3">
+        De overheid moet een subsidie verlenen aan huiseigenaren die hun huis isoleren
+    </string>
+
+    <string name="stelling4">
+        Stroom moet zo goedkoop mogelijk zijn, ook al leidt dit tot meer CO2-uitstoot
+    </string>
+
+    <string name="stelling5">
+        Nederland moet zijn grenzen sluiten voor Islamitische immigranten
+    </string>
+
+    <string name="stelling6">
+        Er moet een klimaatwet komen met concrete doelstellingen voor CO2-uitstoot en schone energie
+    </string>
+
+    <string name="stelling7">
+        Boeren mogen alleen veevoer gebruiken dat in Europa wordt verbouwd, ook al leidt dit tot hogere voedselprijzen
+    </string>
+
+    <string name="stelling8">
+        Er moet meer natuur en groen in de stad komen, ook al gaat dit ten koste van de parkeergelegenheid
+    </string>
+
+    <string name="stelling9">
+        Gasboringen in de Waddenzee zijn toegestaan, ook al gaat dit ten koste van de natuur
+    </string>
+
+    <string name="stelling10">
+        de vorming van zwarte en witte scholen tegen te gaan, moeten scholen worden toegewezen door middel van loting
+    </string>
+
+    <string name="stelling11">
+        Onbetaalde stages moeten worden verboden, ook al zijn er hierdoor minder werkervaringsplekken
+    </string>
+
+    <string name="stelling12">
+        Om toekomstige pensioenen te garanderen moeten pensioenfondsen hogere reserves aanhouden, ook al leidt dat nu tot lagere pensioenuitkeringen
+    </string>
+
+    <string name="stelling13">
+        Om de privacy te beschermen, moet gebruik van klantgegevens worden beperkt, ook al wordt online marketing hierdoor minder effectief
+    </string>
+
+    <string name="stelling14">
+        Bedrijven die langdurig werklozen in dienst nemen moeten een korting krijgen op de loonkosten
+    </string>
+
+    <string name="stelling15">
+        We moeten gewoon accepteren dat sommige mensen nooit meer een baan zullen vinden
+    </string>
+
+    <string name="stelling16">
+        De overheid moet investeren in het benutten van de natuur bij het herstel van patiënten
+    </string>
+    <string name="completelyAgree">Helemaal mee eens</string>
+    <string name="agree">Mee Eens</string>
+    <string name="neutral">Neutraal</string>
+    <string name="disagree">Mee Oneens</string>
+    <string name="completelyDisagree">Helemaal niet mee eens</string>
+    <string name="slot_text">Mooi alle vragen zijn ingevuld en hieronder vindt je de uitslag en je bijbehorende uitslag per partij</string>
+    <string name="kieskompas">Alle stellingen zijn met dank aan het team van het Kieskompas</string>
+</resources>
