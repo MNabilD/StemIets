@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //When start_button is pressed go to @FirstQuestion.class
+
         Button button = (Button) findViewById(R.id.start_button);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -24,6 +26,10 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+        //Finds a TextView and edits that to contain a HTML 'a' tag
+        //This 'a' tag makes the text link to kieskompas.nl
+
         TextView textView =(TextView)findViewById(R.id.kieskompas_link);
         textView.setClickable(true);
         textView.setMovementMethod(LinkMovementMethod.getInstance());
