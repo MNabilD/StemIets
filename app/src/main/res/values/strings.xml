@@ -80,6 +80,6 @@
     <string name="neutral">Neutraal</string>
     <string name="disagree">Mee Oneens</string>
     <string name="completelyDisagree">Helemaal niet mee eens</string>
-    <string name="slot_text">Mooi alle vragen zijn ingevuld en hieronder vindt je de uitslag en je bijbehorende uitslag per partij</string>
+    <string name="slot_text">Mooi alle vragen zijn ingevuld en hieronder vindt je de uitslag</string>
     <string name="kieskompas">Alle stellingen zijn met dank aan het team van het Kieskompas</string>
 </resources>
